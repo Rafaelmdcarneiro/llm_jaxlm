@@ -1,0 +1,5 @@
+jax==0.4.28
+jaxlib==0.4.28
+flax
+orbax==0.1.9
+#t5x @ git+https://github.com/google-research/t5x.git@a42d50b619f3d4503b01b96f0c6002f2338109a5
